@@ -1,0 +1,6 @@
+{
+  "name": "Governed Supply Chain Analytics Engine",
+  "description": "Enterprise semantic layer and conversational analytics powered by Google AI Studio, System Instructions, and strict Function Calling governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
